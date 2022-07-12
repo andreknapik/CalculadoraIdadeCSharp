@@ -1,0 +1,15 @@
+/home/andre/CSharp/CalculadoraIdadeCSharp/bin/Debug/net6.0/CalculadoraIdadeCSharp
+/home/andre/CSharp/CalculadoraIdadeCSharp/bin/Debug/net6.0/CalculadoraIdadeCSharp.deps.json
+/home/andre/CSharp/CalculadoraIdadeCSharp/bin/Debug/net6.0/CalculadoraIdadeCSharp.runtimeconfig.json
+/home/andre/CSharp/CalculadoraIdadeCSharp/bin/Debug/net6.0/CalculadoraIdadeCSharp.dll
+/home/andre/CSharp/CalculadoraIdadeCSharp/bin/Debug/net6.0/CalculadoraIdadeCSharp.pdb
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.csproj.AssemblyReference.cache
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.AssemblyInfoInputs.cache
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.AssemblyInfo.cs
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.csproj.CoreCompileInputs.cache
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.dll
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/refint/CalculadoraIdadeCSharp.dll
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.pdb
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/CalculadoraIdadeCSharp.genruntimeconfig.cache
+/home/andre/CSharp/CalculadoraIdadeCSharp/obj/Debug/net6.0/ref/CalculadoraIdadeCSharp.dll
