@@ -22,6 +22,14 @@ namespace CalculadoraIdadeCSharp
             get { return nome; }
             set { nome = value.ToUpper(); }
         }
+        //Vamos melhorar
+        private int idade;
+
+        public int MyProperty {
+            get { return idade;}
+            set {idade = value;}
+        }
+
 
         public void ExibirDados()
         {
